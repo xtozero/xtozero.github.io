@@ -9,7 +9,7 @@ tags:
 
 # Screen space reflection
 
-![]({{ site.url }}/assets/img/screen_space_reflection/01.png)
+![]({{ site.url }}/assets/img/screen_space_reflection/p01.png)
 
 ![]({{ site.url }}/assets/img/screen_space_reflection/02.png)
 
